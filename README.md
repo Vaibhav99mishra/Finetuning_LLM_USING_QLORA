@@ -16,7 +16,7 @@ Step 5: Performing Inference
 Once the training is complete, we can perform inference on the trained model. We ask the model to described the vision pro of apple in 3 sentences.
 
 The given answer should be this one:
-The Vision Pro is a high-end VR headset developed by Apple. It offers a 120-degree field of view, 4K resolution, and a 120Hz refresh rate. The device is powered by a custom-built processor, allowing for a smooth and immersive experience.
+ # The Vision Pro is a high-end VR headset developed by Apple. It offers a 120-degree field of view, 4K resolution, and a 120Hz refresh rate. The device is powered by a custom-built processor, allowing for a smooth and immersive experience.
 
-The Vision Pro is a high-end VR headset developed by Apple. It offers a 120-degree field of view, 4K resolution, and a 120Hz refresh rate. The device is powered by a custom-built processor, allowing for a smooth and immersive experience.
+
 Please note that the final model is not available in this repository, as it is way too large.
